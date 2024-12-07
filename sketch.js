@@ -503,6 +503,7 @@ function draw() {
   }
 }
 function startAudio() {
+    userStartAudio();
   if (!recognitionRunning) {
     recognitionRunning = true;
 
