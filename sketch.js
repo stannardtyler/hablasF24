@@ -51,7 +51,7 @@ function preload() {
   imgEmpty = loadImage("Empty.png");
   imgcatepillar = loadImage("catepillar.png");
   imgC = loadImage("Cocoon.png");
-  imgB = loadImage("Butterfly.png");
+  imgB = loadImage("butterfly.png");
   imgmanzana = loadImage("manzana.png");
   imgplátano = loadImage("plátano.png");
   imgfrijoles = loadImage("frijoles.png");
